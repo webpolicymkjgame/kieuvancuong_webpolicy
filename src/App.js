@@ -85,7 +85,7 @@ function HomePage() {
                   <line x1="12" y1="15" x2="12" y2="3"></line>
                 </svg>
               </div>
-              <div className="stat-number">50M+</div>
+              <div className="stat-number">5M+</div>
               <div className="stat-label">Downloads</div>
             </div>
             <div className="stat-card">
@@ -97,7 +97,7 @@ function HomePage() {
                   <line x1="22" y1="11" x2="16" y2="11"></line>
                 </svg>
               </div>
-              <div className="stat-number">5M+</div>
+              <div className="stat-number">1M+</div>
               <div className="stat-label">Registered Users</div>
             </div>
             <div className="stat-card">
@@ -107,7 +107,7 @@ function HomePage() {
                   <polyline points="17 6 23 6 23 12"></polyline>
                 </svg>
               </div>
-              <div className="stat-number">1M+</div>
+              <div className="stat-number">100K+</div>
               <div className="stat-label">Daily Active Users</div>
             </div>
           </div>
