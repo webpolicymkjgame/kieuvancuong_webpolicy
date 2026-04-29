@@ -7,6 +7,7 @@ import imgMkj from './assets/banner.png';
 import googlePlayIcon from './assets/google-play.png';
 
 import pdf from './assets/app/pdf.png';
+import remote from './assets/app/remote.png';
 
 
 
@@ -40,7 +41,7 @@ function Header() {
 function HomePage() {
   const apps = [
     { name: 'PDF Reader: Convert & Edit', image: pdf, link: 'https://apps.apple.com/vn/app/pdf-reader-convert-edit/id6752774269' },
-//    { name: 'Dual Tele & Chat', image: tele, link: 'https://apps.apple.com/us/app/dual-tele-chat/id6575367066' },
+    { name: 'Smart Remote Controller TV', image: remote, link: 'https://apps.apple.com/vn/app/smart-remote-controller-tv/id6759699433' },
 //    { name: 'Nuts & Bolts - 3D Wood Puzzle', image: nut, link: 'https://apps.apple.com/us/app/nuts-bolts-3d-wood-puzzle/id6590610383' },
 //    { name: 'Alarm Clock - Wake up alarm', image: alarm, link: 'https://apps.apple.com/us/app/alarm-clock-wake-up-alarm/id6504606302' },
 //    { name: 'Flight Tracker - Air Traffic', image: fly, link: 'https://apps.apple.com/us/app/flight-tracker-air-traffic/id6482293615' },
@@ -138,7 +139,7 @@ function HomePage() {
         <div className="container text-center">
           <h2>Contact Us</h2>
           <p>
-            If you have any questions about this Privacy Policy, request support, please contact us at:<br />
+            If you have any questions about this Privacy Policy and Terms of Service, request support, please contact us at:<br />
             <a href="mailto: kvc21102000@gmail.com"> kvc21102000@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}></span>
           </p>
